@@ -1,0 +1,11 @@
+{
+  "generator": {
+    "biome_source": {
+      "type": "multi_noise",
+      "preset": "overworld"
+    },
+    "settings": "floating_islands",
+    "type": "noise"
+  },
+  "type": "overworld"
+}
